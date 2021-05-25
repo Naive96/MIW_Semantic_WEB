@@ -1,0 +1,316 @@
+<http://www.wikidata.org/entity/Q613241> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kirby";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1315861> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Terry Bogard";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1057701> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Goomba";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q12400> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Samus Aran";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q507001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Princess Peach";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q2745804> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Captain Olimar";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q3276083> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Lakitu";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q3189842> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Red XIII";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q3838346> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Lucas";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2320215> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Wolf O'Donnell";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2544561> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ike";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q21030278> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Toon Link";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1798592> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Cloud Strife";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q11020382> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ken Masters";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2081430> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Fox McCloud";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q8192298> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Buzzy Beetle";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q3272910> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Blooper";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q507001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Princess Peach";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q649546> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sephiroth";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q104901351> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Steve";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q12379> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mario";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q191626> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sonic the Hedgehog";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2734167> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mr. Game & Watch";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q11680398> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Cait Sith";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q1223440> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ryu";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q62603901> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Joker";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1067046> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Princess Zelda";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q12395>.
+<http://www.wikidata.org/entity/Q12395> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda".
+<http://www.wikidata.org/entity/Q1156500> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "R.O.B.";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q12389> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Donkey Kong";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q568553> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Link";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q12395>.
+<http://www.wikidata.org/entity/Q12395> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda".
+<http://www.wikidata.org/entity/Q1328424> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Meta Knight";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2294772> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Aerith Gainsborough";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q2291541> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koopa Troopa";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q2293269> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Falco Lombardi";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2270749> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pit";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q6128744> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Simon Belmont";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q105513839> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Min Min";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q12379> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mario";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2747741> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Roy";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2340460> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Captain Falcon";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q3493144> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Barret Wallace";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q1067046> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Princess Zelda";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q568553> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Link";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q845864> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Bowser";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q2725247> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ness";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1798592> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Cloud Strife";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q2633001> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ridley";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q649546> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sephiroth";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q21027734> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Young Link";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1318338> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "King Dedede";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q845864> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Bowser";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1199059> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Tifa Lockhart";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q214232>.
+<http://www.wikidata.org/entity/Q214232> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII".
+<http://www.wikidata.org/entity/Q150266> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Marth";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2632541> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sheik";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q64683207> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Banjo-Kazooie";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q210593> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Luigi";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2141803> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mewtwo";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q3206515> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "King K. Rool";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q545044> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ganondorf";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q10904385> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Diddy Kong";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1154303> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Lucario";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q1753198> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jigglypuff";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q58492123> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ice Climbers";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q9351> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pikachu";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q19819839> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Dr. Mario";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q11315628> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zora";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q12395>.
+<http://www.wikidata.org/entity/Q12395> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda".
+<http://www.wikidata.org/entity/Q1061603> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Toad";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q1636903> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ivysaur";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q625320> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Hammer Bro.";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q844940> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charizard";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q2070694> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pichu";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q27642474> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Incineroar";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q536138> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Wario";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q845294> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Squirtle";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q210593> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Luigi";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q545044> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ganondorf";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q12395>.
+<http://www.wikidata.org/entity/Q12395> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda".
+<http://www.wikidata.org/entity/Q13417132> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Paratroopa";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q11168>.
+<http://www.wikidata.org/entity/Q11168> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.".
+<http://www.wikidata.org/entity/Q1621656> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Solid Snake";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".
+<http://www.wikidata.org/entity/Q214174> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q95074>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Yoshi";
+    <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q54093632>.
+<http://www.wikidata.org/entity/Q54093632> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate".

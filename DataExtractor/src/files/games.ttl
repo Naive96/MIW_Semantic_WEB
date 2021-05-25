@@ -1,0 +1,100 @@
+<http://www.wikidata.org/entity/Q11168> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros.";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q4802838>.
+<http://www.wikidata.org/entity/Q4802838> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario".
+<http://www.wikidata.org/entity/Q11168> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q11168> <http://www.wikidata.org/prop/direct/P136> "platform game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q11168> <http://www.wikidata.org/prop/direct/P577> "1985-01-01T00:00:00Z".
+<http://www.wikidata.org/entity/Q12384> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Donkey Kong";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q4803535>.
+<http://www.wikidata.org/entity/Q4803535> <http://www.w3.org/2000/01/rdf-schema#label> "Mario franchise".
+<http://www.wikidata.org/entity/Q12384> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q12384> <http://www.wikidata.org/prop/direct/P136> "platform game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q12384> <http://www.wikidata.org/prop/direct/P577> "1981-07-09T00:00:00Z".
+<http://www.wikidata.org/entity/Q12395> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q12393>.
+<http://www.wikidata.org/entity/Q12393> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Zelda".
+<http://www.wikidata.org/entity/Q12395> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q12395> <http://www.wikidata.org/prop/direct/P136> "action-adventure game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q12395> <http://www.wikidata.org/prop/direct/P577> "1986-02-21T00:00:00Z".
+<http://www.wikidata.org/entity/Q37115> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sonic the Hedgehog";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q22974163>.
+<http://www.wikidata.org/entity/Q22974163> <http://www.w3.org/2000/01/rdf-schema#label> "Sonic the Hedgehog".
+<http://www.wikidata.org/entity/Q37115> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q122741>.
+<http://www.wikidata.org/entity/Q122741> <http://www.w3.org/2000/01/rdf-schema#label> "Sega".
+<http://www.wikidata.org/entity/Q37115> <http://www.wikidata.org/prop/direct/P136> "platform game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q37115> <http://www.wikidata.org/prop/direct/P577> "1991-10-25T00:00:00Z".
+<http://www.wikidata.org/entity/Q214232> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy VII";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q99416119>.
+<http://www.wikidata.org/entity/Q99416119> <http://www.w3.org/2000/01/rdf-schema#label> "Final Fantasy".
+<http://www.wikidata.org/entity/Q214232> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q207784>.
+<http://www.wikidata.org/entity/Q207784> <http://www.w3.org/2000/01/rdf-schema#label> "Square Enix".
+<http://www.wikidata.org/entity/Q214232> <http://www.wikidata.org/prop/direct/P136> "role-playing video game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q214232> <http://www.wikidata.org/prop/direct/P577> "1997-01-31T00:00:00Z".
+<http://www.wikidata.org/entity/Q843131> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Brawl";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q2778220>.
+<http://www.wikidata.org/entity/Q2778220> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros.".
+<http://www.wikidata.org/entity/Q843131> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q843131> <http://www.wikidata.org/prop/direct/P136> "fighting game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q843131> <http://www.wikidata.org/prop/direct/P577> "2008-01-31T00:00:00Z".
+<http://www.wikidata.org/entity/Q870981> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros.";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q2778220>.
+<http://www.wikidata.org/entity/Q2778220> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros.".
+<http://www.wikidata.org/entity/Q870981> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q870981> <http://www.wikidata.org/prop/direct/P136> "action game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q870981> <http://www.wikidata.org/prop/direct/P577> "1999-01-21T00:00:00Z".
+<http://www.wikidata.org/entity/Q1141627> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Mario & Sonic at the Olympic Games";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q25394031>.
+<http://www.wikidata.org/entity/Q25394031> <http://www.w3.org/2000/01/rdf-schema#label> "Mario & Sonic at the Olympic Games".
+<http://www.wikidata.org/entity/Q1141627> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q1141627> <http://www.wikidata.org/prop/direct/P136> "sports video game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q1141627> <http://www.wikidata.org/prop/direct/P577> "2007-11-06T00:00:00Z".
+<http://www.wikidata.org/entity/Q1988120> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pokémon Yellow";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q24558579>.
+<http://www.wikidata.org/entity/Q24558579> <http://www.w3.org/2000/01/rdf-schema#label> "Pokémon core series".
+<http://www.wikidata.org/entity/Q1988120> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q1988120> <http://www.wikidata.org/prop/direct/P136> "role-playing video game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q1988120> <http://www.wikidata.org/prop/direct/P577> "1998-09-12T00:00:00Z".
+<http://www.wikidata.org/entity/Q54093632> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q7889>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros. Ultimate";
+    <http://www.wikidata.org/prop/direct/P179> <http://www.wikidata.org/entity/Q2778220>.
+<http://www.wikidata.org/entity/Q2778220> <http://www.w3.org/2000/01/rdf-schema#label> "Super Smash Bros.".
+<http://www.wikidata.org/entity/Q54093632> <http://www.wikidata.org/prop/direct/P123> <http://www.wikidata.org/entity/Q8093>.
+<http://www.wikidata.org/entity/Q8093> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo".
+<http://www.wikidata.org/entity/Q54093632> <http://www.wikidata.org/prop/direct/P136> "fighting game";
+    <http://www.wikidata.org/prop/direct/P495> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q54093632> <http://www.wikidata.org/prop/direct/P577> "2018-12-07T00:00:00Z".

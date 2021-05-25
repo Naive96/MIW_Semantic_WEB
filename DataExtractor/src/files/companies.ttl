@@ -1,0 +1,15 @@
+<http://www.wikidata.org/entity/Q8093> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q1058914>;
+    <http://www.wikidata.org/prop/direct/P571> "1889-09-23T00:00:00Z";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo";
+    <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q122741> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q1058914>;
+    <http://www.wikidata.org/prop/direct/P571> "1960-06-03T00:00:00Z";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Sega";
+    <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
+<http://www.wikidata.org/entity/Q207784> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q1058914>;
+    <http://www.wikidata.org/prop/direct/P571> "1975-01-01T00:00:00Z";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Square Enix";
+    <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q17>.
+<http://www.wikidata.org/entity/Q17> <http://www.w3.org/2000/01/rdf-schema#label> "Japan".
